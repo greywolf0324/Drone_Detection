@@ -8,7 +8,7 @@ Name of Drones are :  new DJI Mavic 2 Air S, DJI Mavic Pro, DJI Mavic Pro 2, DJI
 
 And its modes are  :  Switched on, Hovering, Flying
                       
-###############################################################   Project Pipiline    ############################################################################
+##################################   Project Pipiline    ################################
 
 # Data Preprocessing
  - Input of this project is .dat extension file.
