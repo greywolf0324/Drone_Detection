@@ -23,4 +23,4 @@ And its modes are  :  Switched on, Hovering, Flying
  - Suggested and trained 2 models for each DNN(CNN, DC-CNN)
 # Predict
  - Input of this system is .dat extension file and output is Drone mode and types
- - Built pipeline for entire system
+
