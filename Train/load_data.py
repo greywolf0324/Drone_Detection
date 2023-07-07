@@ -39,7 +39,7 @@ def load_mode(INTERF, DRONE_NAME, MODE) :
         for mode in MODE :
             for name in DRONE_NAME :
                 if not (name == 'DIS' and mode == 'HO') :
-                    with open(f"{interf}_{name}_{mode}.txt", "r") as fp:
+                    with open(f"Train/{interf}_{name}_{mode}.txt", "r") as fp:
                         # Load the dictionary from the file
                         
                         print(f"    {interf}_{name}_{mode} ...")

@@ -10,7 +10,7 @@ from keras.layers import Dense
 from keras.layers import Conv1D,MaxPooling1D, Flatten,AveragePooling1D
 from keras import optimizers
 from load_data import load_id_mode
-from Loading.data_labeling import labeling
+from data_labeling import labeling
 
 def decode(datum) :
     y = np.zeros((datum.shape[0],1))
